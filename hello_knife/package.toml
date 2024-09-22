@@ -1,5 +1,5 @@
-dependencies = "serde, serde_yaml"
-language = "Rust"
-repository = "https://github.com/user/repo"
-capacity = 500
+dependencies = ""
+language = "C"
+repository = "https://github.com/rade-package-manager/hello_knife"
+capacity = 15608
 version = "1.0.0"
