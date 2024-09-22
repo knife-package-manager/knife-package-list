@@ -2,4 +2,5 @@ dependencies = ""
 language = "Rust"
 repository = "https://github.com/rade-package-manager/build_error_template"
 capacity = 0
-version = "v1.0"
+version = "v1.0.0"
+download = false

@@ -1,5 +1,5 @@
 dependencies = ""
-language = "Rust"
+language = "C"
 repository = "https://github.com/rade-package-manager/hello_knife"
 capacity = 15608
 version = "v1.1"
