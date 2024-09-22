@@ -1,0 +1,5 @@
+dependencies = "serde, serde_yaml"
+language = "Rust"
+repository = "https://github.com/user/repo"
+capacity = 500
+version = "1.0.0"
