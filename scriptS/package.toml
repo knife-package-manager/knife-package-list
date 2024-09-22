@@ -1,6 +1,6 @@
 dependencies = "Python3"
 language = "Rust"
 repository = "https://github.com/KajizukaTaichi/scriptS"
-capacity = 500
+capacity = 0
 version = "1.0.0"
 download = false

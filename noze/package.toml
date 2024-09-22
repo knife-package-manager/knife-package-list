@@ -1,6 +1,6 @@
 dependencies = ""
 language = "Rust"
 repository = "https://github.com/KajizukaTaichi/noze"
-capacity = 0000
+capacity = 0
 version = "v1.0.0"
 download = false
